@@ -6,7 +6,7 @@ I’m currently working on [Arica's Valor](https://github.com/siraytarim/AricasV
 
 I’m currently learning Javascript and CSS.  
 
-![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png) ![Dart](https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png) ![C#](https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png) ![HTML](https://raw.githubusercontent.com/github/explore/main/topics/html/html.png)
+![Java](https://raw.githubusercontent.com/github/explore/main/topics/java/java.png) ![Dart](https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png) ![C#](https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png) <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="HTML" width="20" height="20"> HTML
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siraytarim&layout=compact)
