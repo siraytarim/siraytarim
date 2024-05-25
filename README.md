@@ -5,7 +5,8 @@ Unity Developer
 
 
  
-I’m currently working on [Arica's Valor](https://github.com/siraytarim/AricasValor): My mini Roguelike game.
+I’m currently working on [Arica's Valor](https://github.com/siraytarim/AricasValor): My mini Roguelike game  
+
 I’m currently learning Javascript and CSS
 
 
