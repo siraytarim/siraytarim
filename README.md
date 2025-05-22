@@ -4,7 +4,7 @@
  
   I’m currently working on  Data Science and Game Development.
   
-  I am currently working on the project “Emotion Detection From Speech”. This is my final year project.
+  I'm currently working on the project “Emotion Detection From Speech”. This is my final year project.
 
 
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="30" height="30"> Java <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" width="30" height="30"> C# <img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" alt="Dart" width="30" height="30"> Dart <img  src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="30" height="30"> JavaScript <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="CSS" width="30" height="30"> CSS
