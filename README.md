@@ -4,7 +4,7 @@
  
   I’m currently working on  Data Science.
   
-  My latest work is “Emotion Detection From Speech: A Machine Learning Approach”. My final year project.
+  My latest project is “Emotion Detection From Speech: A Machine Learning Approach”. My final year project.
 
 
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="Java" width="30" height="30"> Java    
