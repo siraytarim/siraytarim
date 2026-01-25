@@ -2,7 +2,7 @@
  
 ![Anime Crazy GIF - Anime Crazy Work - Discover   Share GIFs](https://github.com/siraytarim/siraytarim/assets/99121035/a7eb3055-4c77-42c0-bbf7-da3263784a54)
  
-  I’m currently working on  Data Science.
+  I’m currently working on  Data Science and Analysis.
   
   My latest project is “Emotion Detection From Speech: A Machine Learning Approach”. My final year project. 
   [You can access the details via this link](https://github.com/siraytarim/Emotion-Detection-from-Speech)
